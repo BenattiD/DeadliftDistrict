@@ -1,0 +1,6 @@
+{
+  "name": "Workout Tracker",
+  "description": "Secure, interactive dashboard for tracking workout sessions, authenticated and powered by Appwrite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
