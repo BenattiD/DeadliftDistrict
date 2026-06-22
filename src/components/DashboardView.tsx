@@ -55,7 +55,7 @@ export default function DashboardView({ user, onLogout }: DashboardViewProps) {
     }
     const randomIndex = Math.floor(Math.random() * list.length);
     setSpotlightWorkout(list[randomIndex]);
-    setIsSpotlightExpanded(false);
+    setIsSpotlightExpanded(true);
   };
 
   const handleNextSpotlight = () => {
