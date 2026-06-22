@@ -69,7 +69,7 @@ export default function DashboardView({ user, onLogout }: DashboardViewProps) {
       attempts++;
     }
     setSpotlightWorkout(nextWorkout);
-    setIsSpotlightExpanded(false);
+    setIsSpotlightExpanded(true);
   };
 
   // Fetch data on mount
