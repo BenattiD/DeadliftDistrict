@@ -49,7 +49,7 @@ export default function App() {
             <Dumbbell className="w-10 h-10" />
           </div>
           <h2 className="text-xl font-bold font-display text-zinc-100 tracking-tight">
-            Workout Tracker
+            Deadlift District Workout Tracker
           </h2>
           <p className="text-zinc-400 text-xs mt-2 mb-6">
             Establishing secure handshake with Appwrite Web SDK...
